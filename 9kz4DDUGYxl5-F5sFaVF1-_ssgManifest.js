@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdirectories\u002F[[...url]]","\u002Fpeople\u002F[url]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
